@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://REMPLACER-PAR-URL-DU-SITE/sitemap.xml
